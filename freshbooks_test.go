@@ -1,4 +1,4 @@
-package gofreshbooks
+package freshbooks
 
 import (
 	"os"
